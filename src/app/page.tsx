@@ -4,10 +4,6 @@ import {
   Facebook,
   Phone,
   MessageCircle,
-  Instagram,
-  Youtube,
-  Music2,
-  Twitter,
   MoreVertical,
   MapPin,
 } from "lucide-react";
