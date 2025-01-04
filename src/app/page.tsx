@@ -69,7 +69,7 @@ export default function Home() {
     {
       icon: <MapPin className="w-6 h-6" />,
       label: "Google Map",
-      href: "https://maps.app.goo.gl/8zpTF3TGzZHGezZx5",
+      href: "https://maps.app.goo.gl/kiNV6GymaksojH8V8",
     },
   ];
 
