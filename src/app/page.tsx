@@ -59,7 +59,7 @@ export default function Home() {
     {
       icon: <LineIcon className="w-6 h-6" />,
       label: "Line id: ple1356",
-      href: "https://line.me/ti/p/ple1356ห",
+      href: "https://line.me/ti/p/NGkYet7PxS#~",
     },
     {
       icon: <MessageCircle className="w-6 h-6" />,
@@ -80,7 +80,7 @@ export default function Home() {
           {/* Profile Image */}
           <div className="relative w-24 h-24 rounded-full overflow-hidden">
             <Image
-              src="/301222529_458658376276418_1938259836538163739_n.png"
+              src="/ป้ายร้านpage-0001.png"
               alt="Profile"
               fill
               className="object-cover"
